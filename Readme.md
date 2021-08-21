@@ -5,6 +5,7 @@
 ## Information:
 This addon makes a template override to the Product administration page, placing the categories below the pictures sections, making easier to manage categories at stores with a deep category structure.
 
+![](https://github.com/labelgrupnetworks/lblcategories/raw/master/docs/lblcategories.png)
 
 ## Requirements:
 - PrestaShop 1.7.6 or higher. Not tested on previous versions.
