@@ -1,0 +1,10 @@
+{% extends 'PrestaShopBundle:Admin/Product/ProductPage:product.html.twig' %}
+
+{% block javascripts %}
+    {{ parent() }}
+    <script language="javascript">
+        $(document).ready(function () {
+            $('#categories-tree-reduce').click();
+        });
+    </script>
+{% endblock %}
